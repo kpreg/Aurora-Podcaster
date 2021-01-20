@@ -1,1 +1,1 @@
-# Aurora-Podcaster
+Aurora Podcaster is a custom double-ender podcasting solution to automate and simplify the process of locally recoridng. In the age of zoom and remote interviews, keeping fantastic quality is very difficult. More to come.
